@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oDAqB5y/ceVP7bzAAInChuv0QCHMnHoM7BHYICaCLcFunH7IhgZIurMBcV5/rE1TvaXIUKOue7vlOoIKN4VV+A==",
+  "success": true,
+  "projectFilePath": "/Users/prometheus/Desktop/Xamarin/DropsXamarin/DropsXamarin.iOS/DropsXamarin.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/prometheus/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/prometheus/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
